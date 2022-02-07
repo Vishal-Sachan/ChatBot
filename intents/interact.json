@@ -1,0 +1,22 @@
+{
+    "questions": [
+        "hello",
+        "hi",
+        "howdy",
+        "greetings",
+        "who are you?",
+        "how are you?",
+        "nice to meet you",
+        "what you doing?"
+    ],
+    "answers": [
+        "Hey there!",
+        "Hello",
+        "Hi",
+        "Greetings",
+        "I am your Chat Bot",
+        "I am good.",
+        "I am glad",
+        "Looking at your project progress"
+    ]
+}

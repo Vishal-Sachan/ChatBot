@@ -1,0 +1,36 @@
+{
+    "intents": [
+        {
+            "question": "hello",
+            "answer": "Hey There"
+        },
+        {
+            "question": "hi",
+            "answer": "Hello"
+        },
+        {
+            "question": "howdy",
+            "answer": "Hi"
+        },
+        {
+            "question": "greetings",
+            "answer": "Greetings"
+        },
+        {
+            "question": "who are you?",
+            "answer": "I am your Chat Bot"
+        },
+        {
+            "question": "how are you?",
+            "answer": "I am good."
+        },
+        {
+            "question": "nice to meet you",
+            "answer": "I am glad"
+        },
+        {
+            "question": "what you doing?",
+            "answer": "Looking at your project progress"
+        }
+    ]
+}
