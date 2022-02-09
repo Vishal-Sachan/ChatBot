@@ -10,12 +10,10 @@ exitData = JSON.parse(exitData);
 
 console.log("ChatBot Starting...");
 console.log("You can start chatting now");
-//console.log(exitData);
 
 do {
     var input = prompt("> ");
     var inputToCheck = input.toLowerCase();
-    //console.log(data.intents);
     var result = data.intents.find((intent) => {
         return (inputToCheck.localeCompare(intent.question) === 0)
     })
